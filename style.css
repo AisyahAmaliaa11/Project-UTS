@@ -95,7 +95,7 @@ body {
 
 .hero {
     height: 280px;
-    background-image: url(images/london.jpg);
+    background-image: url(./images/london.jpg);
     background-size: cover;
     background-position: 0 -30px;
     border-top: 5px solid lightsalmon;
